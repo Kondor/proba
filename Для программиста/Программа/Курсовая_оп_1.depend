@@ -1,0 +1,823 @@
+# depslib dependency file v1.0
+1589436452 source:d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_оп_1\main.cpp
+	<iostream>
+	<clocale>
+	<fstream>
+	<ostream>
+	"TypesOfWolves.h"
+	<stdlib.h>
+	"List.h"
+	"Wild.h"
+	"wrap.h"
+	<string>
+	"ListRealize.h"
+	<cassert>
+	"ForClassName.h"
+	"Hunting.h"
+
+1589435525 source:d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_оп_1\src\typesofwolves.cpp
+	<cstring>
+	<iostream>
+	"TypesOfWolves.h"
+
+1589435448 d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_оп_1\include\typesofwolves.h
+	<ostream>
+	<fstream>
+	"ForClassName.h"
+
+1589186687 source:d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_оп_1\src\list.cpp
+	"List.h"
+
+1589405296 d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_оп_1\include\list.h
+
+1589436040 source:d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_оп_1\src\wild.cpp
+	"Wild.h"
+	"TypesOfWolves.h"
+	<iostream>
+
+1589347054 d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_оп_1\include\wild.h
+	"TypesOfWolves.h"
+	<iostream>
+
+1589436277 source:d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_оп_1\src\domestic.cpp
+	"Domestic.h"
+	"TypesOfWolves.h"
+	<iostream>
+	<cstring>
+
+1589346891 d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_оп_1\include\domestic.h
+	"TypesOfWolves.h"
+
+1589436168 source:d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_оп_1\src\wolves.cpp
+	"Wolves.h"
+	"Wild.h"
+	<cstring>
+	"TypesOfWolves.h"
+
+1589347054 d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_оп_1\include\wolves.h
+	"Wild.h"
+	<iostream>
+
+1589436190 source:d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_оп_1\src\dingo.cpp
+	"Dingo.h"
+	"Wild.h"
+	"TypesOfWolves.h"
+
+1589347126 d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_оп_1\include\dingo.h
+	"Wild.h"
+
+1589436277 source:d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_оп_1\src\service.cpp
+	"Service.h"
+	"Domestic.h"
+	"TypesOfWolves.h"
+	<cstring>
+
+1589347054 d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_оп_1\include\service.h
+	"Domestic.h"
+	<iostream>
+
+1589436277 source:d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_оп_1\src\hunting.cpp
+	"Hunting.h"
+	"TypesOfWolves.h"
+
+1589347054 d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_оп_1\include\hunting.h
+	"Domestic.h"
+	<iostream>
+
+1589405340 d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_оп_1\include\wrap.h
+	<iostream>
+	"TypesOfWolves.h"
+
+1589405380 d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_оп_1\include\listrealize.h
+	"List.h"
+	<iostream>
+	<fstream>
+	<ostream>
+	"TypesOfWolves.h"
+	<stdlib.h>
+	<cassert>
+
+1589435826 d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_оп_1\include\forclassname.h
+
+1589436476 source:d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Курсовая_оп_1\main.cpp
+	<iostream>
+	<clocale>
+	<fstream>
+	<ostream>
+	"TypesOfWolves.h"
+	<stdlib.h>
+	"List.h"
+	"Wild.h"
+	"wrap.h"
+	<string>
+	"ListRealize.h"
+	<cassert>
+	"ForClassName.h"
+	"Hunting.h"
+
+1589435450 d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Курсовая_оп_1\include\typesofwolves.h
+	<ostream>
+	<fstream>
+	"ForClassName.h"
+
+1589435828 d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Курсовая_оп_1\include\forclassname.h
+
+1589405298 d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Курсовая_оп_1\include\list.h
+
+1589347056 d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Курсовая_оп_1\include\wild.h
+	"TypesOfWolves.h"
+	<iostream>
+
+1589405342 d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Курсовая_оп_1\include\wrap.h
+	<iostream>
+	"TypesOfWolves.h"
+
+1589405382 d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Курсовая_оп_1\include\listrealize.h
+	"List.h"
+	<iostream>
+	<fstream>
+	<ostream>
+	"TypesOfWolves.h"
+	<stdlib.h>
+	<cassert>
+
+1589347056 d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Курсовая_оп_1\include\hunting.h
+	"Domestic.h"
+	<iostream>
+
+1589346892 d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Курсовая_оп_1\include\domestic.h
+	"TypesOfWolves.h"
+
+1589436192 source:d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Курсовая_оп_1\src\dingo.cpp
+	"Dingo.h"
+	"Wild.h"
+	"TypesOfWolves.h"
+
+1589347128 d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Курсовая_оп_1\include\dingo.h
+	"Wild.h"
+
+1589436278 source:d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Курсовая_оп_1\src\domestic.cpp
+	"Domestic.h"
+	"TypesOfWolves.h"
+	<iostream>
+	<cstring>
+
+1589436278 source:d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Курсовая_оп_1\src\hunting.cpp
+	"Hunting.h"
+	"TypesOfWolves.h"
+
+1589436278 source:d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Курсовая_оп_1\src\service.cpp
+	"Service.h"
+	"Domestic.h"
+	"TypesOfWolves.h"
+	<cstring>
+
+1589347056 d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Курсовая_оп_1\include\service.h
+	"Domestic.h"
+	<iostream>
+
+1589435526 source:d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Курсовая_оп_1\src\typesofwolves.cpp
+	<cstring>
+	<iostream>
+	"TypesOfWolves.h"
+
+1589436042 source:d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Курсовая_оп_1\src\wild.cpp
+	"Wild.h"
+	"TypesOfWolves.h"
+	<iostream>
+
+1589436170 source:d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Курсовая_оп_1\src\wolves.cpp
+	"Wolves.h"
+	"Wild.h"
+	<cstring>
+	"TypesOfWolves.h"
+
+1589347056 d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Курсовая_оп_1\include\wolves.h
+	"Wild.h"
+	<iostream>
+
+1591037709 source:d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Курсовая_оп_1 — пробуем изменить\main.cpp
+	<iostream>
+	<clocale>
+	<fstream>
+	<ostream>
+	"TypesOfWolves.h"
+	"Wild.h"
+	"Domestic.h"
+	"Wolves.h"
+	"Dingo.h"
+	"Service.h"
+	"Hunting.h"
+	<stdlib.h>
+	"List.h"
+	"Node.h"
+	"ForClassName.h"
+	"Interface.h"
+	<windows.h>
+	"wrap.h"
+	<string>
+	<cassert>
+
+1590948009 d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Курсовая_оп_1 — пробуем изменить\include\typesofwolves.h
+	<ostream>
+	<fstream>
+	<iostream>
+	"ForClassName.h"
+
+1589697876 d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Курсовая_оп_1 — пробуем изменить\include\forclassname.h
+
+1591071536 d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Курсовая_оп_1 — пробуем изменить\include\list.h
+	<cstddef>
+	"TypesOfWolves.h"
+	<Node.h>
+	"Wild.h"
+	"Wolves.h"
+	"Dingo.h"
+	"Service.h"
+	"Hunting.h"
+	<vector>
+	"ForClassName.h"
+	<cstdlib>
+	<cstring>
+	<conio.h>
+
+1590948954 d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Курсовая_оп_1 — пробуем изменить\include\wild.h
+	"TypesOfWolves.h"
+	<ostream>
+	<fstream>
+	<iostream>
+	"ForClassName.h"
+
+1589405342 d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Курсовая_оп_1 — пробуем изменить\include\wrap.h
+	<iostream>
+	"TypesOfWolves.h"
+
+1589517858 d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Курсовая_оп_1 — пробуем изменить\include\listrealize.h
+	<iostream>
+	<fstream>
+	<ostream>
+	"TypesOfWolves.h"
+	<stdlib.h>
+	<cassert>
+
+1590953124 d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Курсовая_оп_1 — пробуем изменить\include\hunting.h
+	"Domestic.h"
+	<iostream>
+	"ForClassName.h"
+
+1590931841 d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Курсовая_оп_1 — пробуем изменить\include\domestic.h
+	"ForClassName.h"
+	"TypesOfWolves.h"
+
+1590932787 source:d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Курсовая_оп_1 — пробуем изменить\src\dingo.cpp
+	"Dingo.h"
+
+1590949868 d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Курсовая_оп_1 — пробуем изменить\include\dingo.h
+	"Wild.h"
+
+1590931781 source:d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Курсовая_оп_1 — пробуем изменить\src\domestic.cpp
+	"Domestic.h"
+	"TypesOfWolves.h"
+	<iostream>
+	<cstring>
+
+1590931378 source:d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Курсовая_оп_1 — пробуем изменить\src\hunting.cpp
+	"Hunting.h"
+
+1590932206 source:d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Курсовая_оп_1 — пробуем изменить\src\service.cpp
+	"Service.h"
+	<cstring>
+
+1590951705 d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Курсовая_оп_1 — пробуем изменить\include\service.h
+	"Domestic.h"
+	<iostream>
+
+1590948022 source:d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Курсовая_оп_1 — пробуем изменить\src\typesofwolves.cpp
+	<cstring>
+	<iostream>
+	"ForClassName.h"
+	"TypesOfWolves.h"
+
+1590931704 source:d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Курсовая_оп_1 — пробуем изменить\src\wild.cpp
+	"Wild.h"
+	<cstring>
+	<iostream>
+	<fstream>
+	<ostream>
+
+1590931919 source:d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Курсовая_оп_1 — пробуем изменить\src\wolves.cpp
+	"Wolves.h"
+	"Wild.h"
+	<cstring>
+	"TypesOfWolves.h"
+
+1590932064 d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Курсовая_оп_1 — пробуем изменить\include\wolves.h
+	"Wild.h"
+	<iostream>
+	"ForClassName.h"
+
+1590816167 d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Курсовая_оп_1 — пробуем изменить\include\node.h
+
+1589696088 source:d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Курсовая_оп_1 — пробуем изменить\src\node.cpp
+	"Node.h"
+	"List.h"
+	"Wild.h"
+	"TypesOfWolves.h"
+	<ostream>
+	<fstream>
+	<iostream>
+
+1589605344 d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Курсовая_оп_1 — пробуем изменить\src\typesofwolves.cpp
+	<cstring>
+	<iostream>
+	"TypesOfWolves.h"
+
+1589606044 source:d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Курсовая_оп_1 — пробуем изменить\src\utility.cpp
+	<fstream>
+	<iostream>
+	"utility.h"
+	"TypesOfWolves.h"
+
+1589606452 d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Курсовая_оп_1 — пробуем изменить\include\utility.h
+	"List.h"
+	"TypesOfWolves.h"
+	"Node.h"
+
+1589695543 source:d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Курсовая_оп_1 — пробуем изменить\src\methods.cpp
+	<fstream>
+	<iostream>
+	"ForClassName.h"
+	"Methods.h"
+	"Wolves.h"
+	"Dingo.h"
+	"Service.h"
+	"Hunting.h"
+
+1589697161 d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Курсовая_оп_1 — пробуем изменить\include\methods.h
+	"TypesOfWolves.h"
+	"Wild.h"
+
+1591072161 source:d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Курсовая_оп_1 — пробуем изменить\src\interface.cpp
+	"Interface.h"
+	<iostream>
+	<windows.h>
+	<clocale>
+	<cstring>
+	"Dingo.h"
+	"Service.h"
+	<cstring>
+	<ostream>
+	<fstream>
+
+1589373076 d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Курсовая_оп_1 — пробуем изменить\src\list.cpp
+	"List.h"
+
+1590838034 d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Курсовая_оп_1 — пробуем изменить\include\interface.h
+	<iostream>
+	"fstream"
+	<Windows.h>
+	<string>
+	"Wolves.h"
+	"Dingo.h"
+	"Service.h"
+	"Hunting.h"
+	<List.h>
+
+1591037709 source:d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Ульянин А.А. Курсовая работа\Курсовая_оп_1 — пробуем изменить\main.cpp
+	<iostream>
+	<clocale>
+	<fstream>
+	<ostream>
+	"TypesOfWolves.h"
+	"Wild.h"
+	"Domestic.h"
+	"Wolves.h"
+	"Dingo.h"
+	"Service.h"
+	"Hunting.h"
+	<stdlib.h>
+	"List.h"
+	"Node.h"
+	"ForClassName.h"
+	"Interface.h"
+	<windows.h>
+	"wrap.h"
+	<string>
+	<cassert>
+
+1590948009 d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Ульянин А.А. Курсовая работа\Курсовая_оп_1 — пробуем изменить\include\typesofwolves.h
+	<ostream>
+	<fstream>
+	<iostream>
+	"ForClassName.h"
+
+1589697876 d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Ульянин А.А. Курсовая работа\Курсовая_оп_1 — пробуем изменить\include\forclassname.h
+
+1590948954 d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Ульянин А.А. Курсовая работа\Курсовая_оп_1 — пробуем изменить\include\wild.h
+	"TypesOfWolves.h"
+	<ostream>
+	<fstream>
+	<iostream>
+	"ForClassName.h"
+
+1590931841 d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Ульянин А.А. Курсовая работа\Курсовая_оп_1 — пробуем изменить\include\domestic.h
+	"ForClassName.h"
+	"TypesOfWolves.h"
+
+1590932064 d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Ульянин А.А. Курсовая работа\Курсовая_оп_1 — пробуем изменить\include\wolves.h
+	"Wild.h"
+	<iostream>
+	"ForClassName.h"
+
+1590949868 d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Ульянин А.А. Курсовая работа\Курсовая_оп_1 — пробуем изменить\include\dingo.h
+	"Wild.h"
+
+1590951705 d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Ульянин А.А. Курсовая работа\Курсовая_оп_1 — пробуем изменить\include\service.h
+	"Domestic.h"
+	<iostream>
+
+1590953124 d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Ульянин А.А. Курсовая работа\Курсовая_оп_1 — пробуем изменить\include\hunting.h
+	"Domestic.h"
+	<iostream>
+	"ForClassName.h"
+
+1591071536 d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Ульянин А.А. Курсовая работа\Курсовая_оп_1 — пробуем изменить\include\list.h
+	<cstddef>
+	"TypesOfWolves.h"
+	<Node.h>
+	"Wild.h"
+	"Wolves.h"
+	"Dingo.h"
+	"Service.h"
+	"Hunting.h"
+	<vector>
+	"ForClassName.h"
+	<cstdlib>
+	<cstring>
+	<conio.h>
+
+1590816167 d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Ульянин А.А. Курсовая работа\Курсовая_оп_1 — пробуем изменить\include\node.h
+
+1590838034 d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Ульянин А.А. Курсовая работа\Курсовая_оп_1 — пробуем изменить\include\interface.h
+	<iostream>
+	"fstream"
+	<Windows.h>
+	<string>
+	"Wolves.h"
+	"Dingo.h"
+	"Service.h"
+	"Hunting.h"
+	<List.h>
+
+1589405342 d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Ульянин А.А. Курсовая работа\Курсовая_оп_1 — пробуем изменить\include\wrap.h
+	<iostream>
+	"TypesOfWolves.h"
+
+1590932787 source:d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Ульянин А.А. Курсовая работа\Курсовая_оп_1 — пробуем изменить\src\dingo.cpp
+	"Dingo.h"
+
+1590931781 source:d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Ульянин А.А. Курсовая работа\Курсовая_оп_1 — пробуем изменить\src\domestic.cpp
+	"Domestic.h"
+	"TypesOfWolves.h"
+	<iostream>
+	<cstring>
+
+1590931378 source:d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Ульянин А.А. Курсовая работа\Курсовая_оп_1 — пробуем изменить\src\hunting.cpp
+	"Hunting.h"
+
+1591072161 source:d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Ульянин А.А. Курсовая работа\Курсовая_оп_1 — пробуем изменить\src\interface.cpp
+	"Interface.h"
+	<iostream>
+	<windows.h>
+	<clocale>
+	<cstring>
+	"Dingo.h"
+	"Service.h"
+	<cstring>
+	<ostream>
+	<fstream>
+
+1589696088 source:d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Ульянин А.А. Курсовая работа\Курсовая_оп_1 — пробуем изменить\src\node.cpp
+	"Node.h"
+	"List.h"
+	"Wild.h"
+	"TypesOfWolves.h"
+	<ostream>
+	<fstream>
+	<iostream>
+
+1590932206 source:d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Ульянин А.А. Курсовая работа\Курсовая_оп_1 — пробуем изменить\src\service.cpp
+	"Service.h"
+	<cstring>
+
+1590948022 source:d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Ульянин А.А. Курсовая работа\Курсовая_оп_1 — пробуем изменить\src\typesofwolves.cpp
+	<cstring>
+	<iostream>
+	"ForClassName.h"
+	"TypesOfWolves.h"
+
+1590931704 source:d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Ульянин А.А. Курсовая работа\Курсовая_оп_1 — пробуем изменить\src\wild.cpp
+	"Wild.h"
+	<cstring>
+	<iostream>
+	<fstream>
+	<ostream>
+
+1590931919 source:d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Ульянин А.А. Курсовая работа\Курсовая_оп_1 — пробуем изменить\src\wolves.cpp
+	"Wolves.h"
+	"Wild.h"
+	<cstring>
+	"TypesOfWolves.h"
+
+1591037709 source:d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Ульянин А.А. Курсовая работа\Для программиста\Программа\main.cpp
+	<iostream>
+	<clocale>
+	<fstream>
+	<ostream>
+	"TypesOfWolves.h"
+	"Wild.h"
+	"Domestic.h"
+	"Wolves.h"
+	"Dingo.h"
+	"Service.h"
+	"Hunting.h"
+	<stdlib.h>
+	"List.h"
+	"Node.h"
+	"ForClassName.h"
+	"Interface.h"
+	<windows.h>
+	"wrap.h"
+	<string>
+	<cassert>
+
+1590948009 d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Ульянин А.А. Курсовая работа\Для программиста\Программа\include\typesofwolves.h
+	<ostream>
+	<fstream>
+	<iostream>
+	"ForClassName.h"
+
+1589697876 d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Ульянин А.А. Курсовая работа\Для программиста\Программа\include\forclassname.h
+
+1590948954 d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Ульянин А.А. Курсовая работа\Для программиста\Программа\include\wild.h
+	"TypesOfWolves.h"
+	<ostream>
+	<fstream>
+	<iostream>
+	"ForClassName.h"
+
+1590931841 d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Ульянин А.А. Курсовая работа\Для программиста\Программа\include\domestic.h
+	"ForClassName.h"
+	"TypesOfWolves.h"
+
+1590932064 d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Ульянин А.А. Курсовая работа\Для программиста\Программа\include\wolves.h
+	"Wild.h"
+	<iostream>
+	"ForClassName.h"
+
+1590949868 d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Ульянин А.А. Курсовая работа\Для программиста\Программа\include\dingo.h
+	"Wild.h"
+
+1590951705 d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Ульянин А.А. Курсовая работа\Для программиста\Программа\include\service.h
+	"Domestic.h"
+	<iostream>
+
+1590953124 d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Ульянин А.А. Курсовая работа\Для программиста\Программа\include\hunting.h
+	"Domestic.h"
+	<iostream>
+	"ForClassName.h"
+
+1591071536 d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Ульянин А.А. Курсовая работа\Для программиста\Программа\include\list.h
+	<cstddef>
+	"TypesOfWolves.h"
+	<Node.h>
+	"Wild.h"
+	"Wolves.h"
+	"Dingo.h"
+	"Service.h"
+	"Hunting.h"
+	<vector>
+	"ForClassName.h"
+	<cstdlib>
+	<cstring>
+	<conio.h>
+
+1590816167 d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Ульянин А.А. Курсовая работа\Для программиста\Программа\include\node.h
+
+1590838034 d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Ульянин А.А. Курсовая работа\Для программиста\Программа\include\interface.h
+	<iostream>
+	"fstream"
+	<Windows.h>
+	<string>
+	"Wolves.h"
+	"Dingo.h"
+	"Service.h"
+	"Hunting.h"
+	<List.h>
+
+1589405342 d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Ульянин А.А. Курсовая работа\Для программиста\Программа\include\wrap.h
+	<iostream>
+	"TypesOfWolves.h"
+
+1590932787 source:d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Ульянин А.А. Курсовая работа\Для программиста\Программа\src\dingo.cpp
+	"Dingo.h"
+
+1590931781 source:d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Ульянин А.А. Курсовая работа\Для программиста\Программа\src\domestic.cpp
+	"Domestic.h"
+	"TypesOfWolves.h"
+	<iostream>
+	<cstring>
+
+1590931378 source:d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Ульянин А.А. Курсовая работа\Для программиста\Программа\src\hunting.cpp
+	"Hunting.h"
+
+1591072161 source:d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Ульянин А.А. Курсовая работа\Для программиста\Программа\src\interface.cpp
+	"Interface.h"
+	<iostream>
+	<windows.h>
+	<clocale>
+	<cstring>
+	"Dingo.h"
+	"Service.h"
+	<cstring>
+	<ostream>
+	<fstream>
+
+1589696088 source:d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Ульянин А.А. Курсовая работа\Для программиста\Программа\src\node.cpp
+	"Node.h"
+	"List.h"
+	"Wild.h"
+	"TypesOfWolves.h"
+	<ostream>
+	<fstream>
+	<iostream>
+
+1590932206 source:d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Ульянин А.А. Курсовая работа\Для программиста\Программа\src\service.cpp
+	"Service.h"
+	<cstring>
+
+1590948022 source:d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Ульянин А.А. Курсовая работа\Для программиста\Программа\src\typesofwolves.cpp
+	<cstring>
+	<iostream>
+	"ForClassName.h"
+	"TypesOfWolves.h"
+
+1590931704 source:d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Ульянин А.А. Курсовая работа\Для программиста\Программа\src\wild.cpp
+	"Wild.h"
+	<cstring>
+	<iostream>
+	<fstream>
+	<ostream>
+
+1590931919 source:d:\Курсовая работа по основам программирования\Новая хрень\Курсовая_работа по оп 1(jjjjgggg)\Ульянин А.А. Курсовая работа\Для программиста\Программа\src\wolves.cpp
+	"Wolves.h"
+	"Wild.h"
+	<cstring>
+	"TypesOfWolves.h"
+
+1592114336 source:d:\Курсовая работа по основам программирования\Ульянин А.А. Курсовая работа\Для программиста\Программа\main.cpp
+	<iostream>
+	<clocale>
+	<fstream>
+	<ostream>
+	"TypesOfWolves.h"
+	"Wild.h"
+	"Domestic.h"
+	"Wolves.h"
+	"Dingo.h"
+	"Service.h"
+	"Hunting.h"
+	<stdlib.h>
+	"List.h"
+	"Node.h"
+	"ForClassName.h"
+	"Interface.h"
+	<windows.h>
+	"wrap.h"
+	<string>
+	<cassert>
+
+1590948009 d:\Курсовая работа по основам программирования\Ульянин А.А. Курсовая работа\Для программиста\Программа\include\typesofwolves.h
+	<ostream>
+	<fstream>
+	<iostream>
+	"ForClassName.h"
+
+1589697876 d:\Курсовая работа по основам программирования\Ульянин А.А. Курсовая работа\Для программиста\Программа\include\forclassname.h
+
+1590948954 d:\Курсовая работа по основам программирования\Ульянин А.А. Курсовая работа\Для программиста\Программа\include\wild.h
+	"TypesOfWolves.h"
+	<ostream>
+	<fstream>
+	<iostream>
+	"ForClassName.h"
+
+1590931841 d:\Курсовая работа по основам программирования\Ульянин А.А. Курсовая работа\Для программиста\Программа\include\domestic.h
+	"ForClassName.h"
+	"TypesOfWolves.h"
+
+1590932064 d:\Курсовая работа по основам программирования\Ульянин А.А. Курсовая работа\Для программиста\Программа\include\wolves.h
+	"Wild.h"
+	<iostream>
+	"ForClassName.h"
+
+1590949868 d:\Курсовая работа по основам программирования\Ульянин А.А. Курсовая работа\Для программиста\Программа\include\dingo.h
+	"Wild.h"
+
+1590951705 d:\Курсовая работа по основам программирования\Ульянин А.А. Курсовая работа\Для программиста\Программа\include\service.h
+	"Domestic.h"
+	<iostream>
+
+1590953124 d:\Курсовая работа по основам программирования\Ульянин А.А. Курсовая работа\Для программиста\Программа\include\hunting.h
+	"Domestic.h"
+	<iostream>
+	"ForClassName.h"
+
+1592149881 d:\Курсовая работа по основам программирования\Ульянин А.А. Курсовая работа\Для программиста\Программа\include\list.h
+	<cstddef>
+	"TypesOfWolves.h"
+	<Node.h>
+	"Wild.h"
+	"Wolves.h"
+	"Dingo.h"
+	"Service.h"
+	"Hunting.h"
+	<vector>
+	"ForClassName.h"
+	<cstdlib>
+	<cstring>
+	<conio.h>
+
+1592149883 d:\Курсовая работа по основам программирования\Ульянин А.А. Курсовая работа\Для программиста\Программа\include\node.h
+
+1590838034 d:\Курсовая работа по основам программирования\Ульянин А.А. Курсовая работа\Для программиста\Программа\include\interface.h
+	<iostream>
+	"fstream"
+	<Windows.h>
+	<string>
+	"Wolves.h"
+	"Dingo.h"
+	"Service.h"
+	"Hunting.h"
+	<List.h>
+
+1589405342 d:\Курсовая работа по основам программирования\Ульянин А.А. Курсовая работа\Для программиста\Программа\include\wrap.h
+	<iostream>
+	"TypesOfWolves.h"
+
+1590932787 source:d:\Курсовая работа по основам программирования\Ульянин А.А. Курсовая работа\Для программиста\Программа\src\dingo.cpp
+	"Dingo.h"
+
+1590931781 source:d:\Курсовая работа по основам программирования\Ульянин А.А. Курсовая работа\Для программиста\Программа\src\domestic.cpp
+	"Domestic.h"
+	"TypesOfWolves.h"
+	<iostream>
+	<cstring>
+
+1590931378 source:d:\Курсовая работа по основам программирования\Ульянин А.А. Курсовая работа\Для программиста\Программа\src\hunting.cpp
+	"Hunting.h"
+
+1592758308 source:d:\Курсовая работа по основам программирования\Ульянин А.А. Курсовая работа\Для программиста\Программа\src\interface.cpp
+	"Interface.h"
+	<iostream>
+	<windows.h>
+	<clocale>
+	<cstring>
+	"Dingo.h"
+	"Service.h"
+	<cstring>
+	<ostream>
+	<fstream>
+
+1592149883 source:d:\Курсовая работа по основам программирования\Ульянин А.А. Курсовая работа\Для программиста\Программа\src\node.cpp
+	"Node.h"
+	"List.h"
+	"Wild.h"
+	"TypesOfWolves.h"
+	<ostream>
+	<fstream>
+	<iostream>
+
+1590932206 source:d:\Курсовая работа по основам программирования\Ульянин А.А. Курсовая работа\Для программиста\Программа\src\service.cpp
+	"Service.h"
+	<cstring>
+
+1590948022 source:d:\Курсовая работа по основам программирования\Ульянин А.А. Курсовая работа\Для программиста\Программа\src\typesofwolves.cpp
+	<cstring>
+	<iostream>
+	"ForClassName.h"
+	"TypesOfWolves.h"
+
+1590931704 source:d:\Курсовая работа по основам программирования\Ульянин А.А. Курсовая работа\Для программиста\Программа\src\wild.cpp
+	"Wild.h"
+	<cstring>
+	<iostream>
+	<fstream>
+	<ostream>
+
+1590931919 source:d:\Курсовая работа по основам программирования\Ульянин А.А. Курсовая работа\Для программиста\Программа\src\wolves.cpp
+	"Wolves.h"
+	"Wild.h"
+	<cstring>
+	"TypesOfWolves.h"
+
